@@ -1,11 +1,9 @@
-┌──────────────────────────────────────────┐ 
-│             MISSION BRIEF                │
-├──────────────────────────────────────────┤ 
-│ Platform   : TryHackMe                   │ 
-│ Path       : Pre Security                │ 
-│ Focus      : Cybersecurity Fundamentals  │
-│ Status     : COMPLETE                    │
-└──────────────────────────────────────────┘
+# Pre Security SEC0 Certification
+Platform   : TryHackMe                   
+Path       : Pre Security                 
+Focus      : Cybersecurity Fundamentals  
+Status     : COMPLETE                    
+
 ## 🎯 Learning Objective
 Build a strong foundation in cybersecurity by understanding the technologies and concepts that form the backbone of modern security operations.
 ## 🧠 Skills Acquired
