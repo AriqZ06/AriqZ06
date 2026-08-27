@@ -17,4 +17,4 @@ Throughout the path, I worked through practical labs and exercises covering foun
 ## 🚀 Why This Matters
 This certification marks the beginning of my transition from academic knowledge into practical cybersecurity and blue-team operations.
 ## 📜 Certificate
-[Click here to view the file](certifications/TryHackMe/Pre Security SEC0/THM-Pre Security SEC0 Certificate.pdf)
+[Click here to view the file](./THM-Pre%20Security%20SEC0%20Certificate.pdf)
