@@ -80,6 +80,7 @@
 
 [![Wireshark](https://img.shields.io/badge/Wireshark-167EC6?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-222A35?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/AriqZ06)
+[![Wazuh](https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&logoColor=white)](https://wazuh.com/)
 
 ### 🧰 Tools & Platforms
 
